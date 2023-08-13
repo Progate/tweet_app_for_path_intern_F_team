@@ -1,6 +1,5 @@
 # Team Links
 
-
 - Asana
   - https://app.asana.com/0/1205215227476571/1205215468711904
 - Google docs
